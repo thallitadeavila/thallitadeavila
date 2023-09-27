@@ -19,6 +19,13 @@ Nesse momento:
     . 👩‍💻 Estudando para ser uma Desenvolvedora;
     . 💻 Focada na transição de carreira;
 
+    <br>
+
+Nesse momento:
+
+    . 👩‍💻 Estudando para ser uma Desenvolvedora;
+    . 💻 Focada na transição de carreira;
+
 ### Loading...
 
 <div style="display: inline_block"><br>
@@ -30,3 +37,6 @@ Nesse momento:
   <img align="center" alt="Thallita-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Thallita-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+### Loading...
+
